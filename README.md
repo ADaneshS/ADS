@@ -1,2 +1,2 @@
 # ADS
-perubahan kode dilacak oleh git
+Perubahan kode dilacak oleh git
